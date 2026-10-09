@@ -18,6 +18,7 @@
 
 - GitHub (main): https://github.com/subtiv/BiomoddLondon
 - Tasks: no list linked
+- NAS project: `/volume1/Library/projects/archive/art/biomodd-ldnw`
 <!-- submanager:auto:end -->
 
 ## Project notes (from the vault)
@@ -43,6 +44,7 @@
 
 - GitHub (main): https://github.com/subtiv/BiomoddLondon
 - Tasks: no list linked
+- NAS project: `/volume1/Library/projects/archive/art/biomodd-ldnw`
 <!-- submanager:auto:end -->
 
 #### How to work on this project
